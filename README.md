@@ -25,7 +25,7 @@
 - timing of spawning and Red Knots arrival is crucial to the Red Knots existence
 - threats to Horseshoe crabs and Red Knots
 
-	- RED KNOT
+	- **RED KNOT**
 	- Some populations winter as far south as Tierra del Fuego, the southern tip of South America.
 	- More than half of the Western hemisphere’s population of Red Knot may be in the Delaware Bay in May.
 	- Red Knots may travel 20,000 miles round trip per year making non-stop flights of 2,000 miles or more.
@@ -33,7 +33,7 @@
 	- The weight they gain from horseshoe crab eggs allows them to make their final non-stop flight to their Arctic breeding grounds. 
 	- It will also help sustain them during the initial nesting period until food becomes available there.
 
-	- HORSESHOE CRABS
+	- **HORSESHOE CRABS**
 	- There are four species of horseshoe crab worldwide. Only one species (Limulus Polyphemus) lives in North America. The largest population is in the Delaware Bay.
 	- Horseshoe crabs are not actually crabs. They are arthropods more closely related spiders and scorpions.
 	- It takes about 9 years for a horseshoe crab to become sexually mature.
@@ -44,7 +44,7 @@
 	https://dnrec.delaware.gov/fish-wildlife/conservation/shorebirds/bay-ecology/
 
 
-	- RED KNOT
+	- **RED KNOT**
 	- Weighing about as much as a D-size battery, Red Knots fly up to 15,000 km (9,300 miles) during their yearly migration between Arctic breeding grounds and wintering grounds farther south, which for some Red Knots is the southern tip of South America.
 	- take a D-cell battery for the kids
 
@@ -56,7 +56,7 @@
 
 # Educational Resources
 
-1. Sea Grant Delaware
+1. **Sea Grant Delaware**
 
 - lots of educational resources available (lesson plans/books/videos/coloring pages etc)
   
@@ -64,7 +64,7 @@
   URL: https://www.deseagrant.org/education-resources
   
 
-2. Publication in Nature
+2. **Publication in Nature**
 
 - What's killing the world's shorebirds?
 
@@ -180,7 +180,7 @@ List of books to read either after the lesson OR if the kids are younger, make t
 
 Posters which can be obtained (via buying/requesting/printing):
 
-1. Tracking trouble in the Arctic
+1. **Tracking trouble in the Arctic**
 
 - copyrighted. need to buy a license to use
 
@@ -248,7 +248,7 @@ reference
 
 Videos to show to kids during the lesson or after the lesson.
 
-SHORT VIDEOS
+**SHORT VIDEOS**
 
 
 ### 15 Second Science: Horseshoe Crab Eggs
@@ -310,7 +310,7 @@ SHORT VIDEOS
 - shows scientists (Delaware Shorebird Project) doing research
 
 
-LONG VIDEOS
+**LONG VIDEOS**
 
 ### Feast on the Beach: The Delaware Bay Horseshoe Crab Shorebird Connection
 
