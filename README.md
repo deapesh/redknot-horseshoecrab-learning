@@ -18,6 +18,8 @@
 - primarily aimed at the ecology of eastern shore of USA (Delaware, New Jersey)
 - but also collect educational resource information for Red Knots and Horseshoe crabs in other parts of the world
 
+---
+
 # Concepts to teach
 
 - Red Knots travel to Delaware bay from very very far away
@@ -40,8 +42,7 @@
 	- During spawning, a female horseshoe crab lays a cluster of about 4,000 eggs several times each night and may lay around 100,000 eggs each season.
 
 	Reference:  
-	Delaware Bay Ecology  
-	https://dnrec.delaware.gov/fish-wildlife/conservation/shorebirds/bay-ecology/
+  [	Delaware Bay Ecology](https://dnrec.delaware.gov/fish-wildlife/conservation/shorebirds/bay-ecology/)
 
 
 	- **RED KNOT**
@@ -50,9 +51,10 @@
 
 	Reference:
 	Red Knots
-	https://whsrn.org/about-shorebirds/highlighted-species/red-knot/
+	[WHSRN](https://whsrn.org/about-shorebirds/highlighted-species/red-knot/)
 
 
+---
 
 # Educational Resources
 
@@ -152,6 +154,14 @@ reference
 
 ## Photos/images
 
+### Greg Breese - Photos
+
+- Greg Breese (ex-USFWS) has a lot of photos on his Flickr album
+- [Greg Breese Flickr](https://flickr.com/photos/gregory_breese/albums/72157604321254395/with/51006370756)
+- Here are Greg's photos for the US Fish and Wildlife Service [Greg's USFWS photos](https://www.google.com/search?as_q=&as_epq=gregory+breese&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=fws.gov%2Fmedia&as_occt=any&as_filetype=&tbs=)
+- No license restrictions !
+ 
+
 ### Red Knot migration (worldwide)
 
 ![Red Knot Worldwide migration map](./images/RedKnotMigration-wikipedia.svg)
@@ -195,8 +205,6 @@ Videos to show to kids during the lesson or after the lesson.
 
 
 ### 15 Second Science: Horseshoe Crab Eggs
-
-
 
 	15 Second Science: Horseshoe Crab Eggs
 	DESeaGrant
@@ -272,7 +280,6 @@ Videos to show to kids during the lesson or after the lesson.
 
 ### Red Knots and Horseshoe Crabs by Greg Breese
 
-
 	Red Knots and Horseshoe Crabs by Greg Breese
 	Orange Audubon Society
 	Uploaded on: 2022
@@ -297,28 +304,32 @@ Videos to show to kids during the lesson or after the lesson.
 - Delaware Bay Ecology https://dnrec.delaware.gov/fish-wildlife/conservation/shorebirds/bay-ecology/
 - FAQs about Delaware Bay Rufa Red Knots and Horseshoe Crabs (Publication date: Nov 2022) https://documents.dnrec.delaware.gov/fw/conservation/Del-Bay-Red-Knot-Horseshoe-Crab-FAQ.pdf
 
+---
 
 # Miscellaneous ides/thoughts/comments/suggestions/etc.
 
 - show kids the tag used on Red Knots
 - show kids the tag attached to Horseshoe Crabs
 
-# Credits
-
-Thanks to the following for their help in creating this document:
-
-- Delaware Shorebird Group
-- other names by permission
-
-# my questions (remove this section later)
+## my questions (remove this section later)
 
 - where do the horseshoe crabs come from?
   - only from within the Delaware bay OR from the Atlantic ocean?
   - I believe they come from the Atlantic Ocean.
   - how far from the coastline do they come from?
 
-- Copyrights - Fair Use Clause in US
-- https://www.copyright.gov/fair-use/index.html
+- Copyrights - [Fair Use Clause in US](https://www.copyright.gov/fair-use/index.html)
+  
+---
+
+# Credits
+
+Thanks to the following for their help in creating this document:
+
+- Delaware Shorebird Group
+- (other names by permission later)
+
+
 
 
 
