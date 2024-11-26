@@ -96,9 +96,8 @@ reference
 
 #### Coloring Pages
 
-Available online here from Sea Grant Delaware: [coloring page](https://www.deseagrant.org/coloring-pages/2020/10/3/red-knot).
-
-Downloaded copy is [here](./activities/DESG-CD-coloringsheet-redknot2.pdf).
+- Available online here from Sea Grant Delaware: [coloring page](https://www.deseagrant.org/coloring-pages/2020/10/3/red-knot).
+	- Downloaded copy is [here](./activities/DESG-CD-coloringsheet-redknot2.pdf).
 
 
 
@@ -107,7 +106,7 @@ Downloaded copy is [here](./activities/DESG-CD-coloringsheet-redknot2.pdf).
 Build a model of a Horseshoe crab. 
  
 - Instructions are available [here](https://njseagrant.org/wp-content/uploads/2014/03/build_a_horseshoe_crab.pdf) 
-- Downloaded copy is [here](./activities/NJ-seaGrant-build_a_horseshoe_crab.pdf)
+	- Downloaded copy is [here](./activities/NJ-seaGrant-build_a_horseshoe_crab.pdf)
 
 
 
