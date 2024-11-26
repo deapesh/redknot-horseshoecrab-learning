@@ -75,6 +75,9 @@ reference
 
 - copyrighted. need to buy a license to use
 
+3. **Horseshoecrab.org**
+
+- lots of info at [horseshoecrab.org](https://www.horseshoecrab.org/)
 ---
 
 
@@ -126,7 +129,7 @@ List of books to read either after the lesson OR if the kids are younger, make t
 - Crab Moon - [Amazon USA URL](https://a.co/d/j253cT8)
 	- NOTE: the authors of Crab Moon point out their mistake in the book of picking up a Horseshoe crab by the tail. 
 - Horseshoe Crabs and Shorebirds: The Story of a Food Web - [Amazon USA URL](https://a.co/d/fN74yml)
-- High Tide for Horseshoe Crabs - https://a.co/d/iUV8sHA
+- High Tide for Horseshoe Crabs - [Amazon USA URL](https://a.co/d/iUV8sHA)
 
 ---
 
@@ -166,7 +169,7 @@ reference
 - Horseshoe Crab models are available on Amazon for under 10$ (as of April 2024)
 	- https://a.co/d/e66vWne
 - Ragan Callahan art: https://www.etsy.com/shop/CapeCustomArt
-- $650 life sized model available [here](https://www.horseshoecrab.org/store/model.html)
+- $650 (as of Nov 2024) life sized model available [here](https://www.horseshoecrab.org/store/model.html)
 
 ---
 
@@ -200,7 +203,7 @@ Available here on the internet: [wikipedia image](https://commons.wikimedia.org/
 	Tweeted on: April 7, 2014
 	URL:https://twitter.com/USFWSNortheast/status/453322369419837440
  
-- copytright license unknown
+- copyright license unknown
 
 
 ### WHSRN infographic
