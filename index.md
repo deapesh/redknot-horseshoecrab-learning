@@ -115,9 +115,9 @@ All the details are [here](activities/game1.md)
 
 List of books to read either after the lesson OR if the kids are younger, make the book/s part of the lesson plan.
 
-- Moonbird: A Year on the Wind with the Great Survivor B95 - https://a.co/d/bATO9Sl
-- Crab Moon - https://a.co/d/j253cT8
-- Horseshoe Crabs and Shorebirds: The Story of a Food Web - https://a.co/d/fN74yml
+- Moonbird: A Year on the Wind with the Great Survivor B95 - [Amazon USA URL](https://a.co/d/bATO9Sl)
+- Crab Moon - [Amazon USA URL](https://a.co/d/j253cT8)
+- Horseshoe Crabs and Shorebirds: The Story of a Food Web - [Amazon USA URL](https://a.co/d/fN74yml)
 - High Tide for Horseshoe Crabs - https://a.co/d/iUV8sHA
 
 
@@ -211,7 +211,7 @@ Videos to show to kids during the lesson or after the lesson.
 	Uploaded on: 2021
 	https://www.youtube.com/watch?v=QYqSQpWaDjM
 
-- quick exlplanation of horseshoe crab eggs
+- quick explanation of horseshoe crab eggs
 - image of horseshoe crabs
 - image of spawning in the night and volunteers collecting data
 - audio of the typical beach (Laughing Gulls in background)
