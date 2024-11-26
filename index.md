@@ -83,11 +83,16 @@ reference
 
 ## Activity ideas
 
+
 ### Activity on the beach
 
 - none for now since the school/s I am volunteering to teach, are far from Delaware Bay
 
+
+
 ### Activity in the classroom
+
+
 
 #### Coloring Pages
 
@@ -95,12 +100,16 @@ Available online here from Sea Grant Delaware: [coloring page](https://www.desea
 
 Downloaded copy is available [here](./activities/DESG-CD-coloringsheet-redknot2.pdf).
 
+
+
 #### Build models
 
 Build a model of a Horseshoe crab. 
  
 - Instructions are available [here](https://njseagrant.org/wp-content/uploads/2014/03/build_a_horseshoe_crab.pdf) 
 - Downloaded copy is [here](./activities/NJ-seaGrant-build_a_horseshoe_crab.pdf)
+
+
 
 #### Children game 1
 
@@ -111,6 +120,8 @@ All the details are [here](activities/game1.md)
 
 
 
+---
+
 ### Books
 
 List of books to read either after the lesson OR if the kids are younger, make the book/s part of the lesson plan.
@@ -119,6 +130,9 @@ List of books to read either after the lesson OR if the kids are younger, make t
 - Crab Moon - [Amazon USA URL](https://a.co/d/j253cT8)
 - Horseshoe Crabs and Shorebirds: The Story of a Food Web - [Amazon USA URL](https://a.co/d/fN74yml)
 - High Tide for Horseshoe Crabs - https://a.co/d/iUV8sHA
+
+---
+
 
 
 ## Posters
@@ -137,13 +151,17 @@ reference
     Published Date: 05 January 2017
     URL: https://www.nature.com/articles/541016a
 
-
+---
 
 ## Models of animals
+
+
 
 ### Red Knots
 
 - Red Knot sculptures are TOO expensive to buy :(
+
+
 
 ### Horseshoe Crabs
 
@@ -152,7 +170,11 @@ reference
 - Ragan Callahan art: https://www.etsy.com/shop/CapeCustomArt
 - $650 life sized model available [here](https://www.horseshoecrab.org/store/model.html)
 
+---
+
 ## Photos/images
+
+
 
 ### Greg Breese - Photos
 
@@ -197,11 +219,13 @@ reference
     Published Date: unknown
     URL: https://whsrn.org/about-shorebirds/highlighted-species/red-knot/
 
+--- 
+
 ## Videos
 
 Videos to show to kids during the lesson or after the lesson.
 
-**SHORT VIDEOS**
+### SHORT VIDEOS
 
 
 ### 15 Second Science: Horseshoe Crab Eggs
@@ -261,7 +285,7 @@ Videos to show to kids during the lesson or after the lesson.
 - shows scientists (Delaware Shorebird Project) doing research
 
 
-**LONG VIDEOS**
+### LONG VIDEOS
 
 ### Feast on the Beach: The Delaware Bay Horseshoe Crab Shorebird Connection
 
