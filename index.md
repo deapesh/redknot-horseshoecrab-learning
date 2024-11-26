@@ -10,7 +10,7 @@
 
 ## Age of children
 
-- Primarily for kids above 3 years and upto 6 years
+- Primarily for kids above 3 years and upto 12 years
 - but also collect resources for elder school going kids
 
 ## Geographical limitation
@@ -24,8 +24,8 @@
 
 - Red Knots travel to Delaware bay from very very far away
 - Horseshoe crabs spawn in Delaware bay
-- timing of spawning and Red Knots arrival is crucial to the Red Knots existence
-- threats to Horseshoe crabs and Red Knots
+- timing of spawning and Red Knots arrival is crucial for the existence of Red Knots
+- there are multiple threats to Horseshoe crabs and Red Knots
 
 	- **RED KNOT**
 	- Some populations winter as far south as Tierra del Fuego, the southern tip of South America.
@@ -42,12 +42,12 @@
 	- During spawning, a female horseshoe crab lays a cluster of about 4,000 eggs several times each night and may lay around 100,000 eggs each season.
 
 	Reference:  
-  [	Delaware Bay Ecology](https://dnrec.delaware.gov/fish-wildlife/conservation/shorebirds/bay-ecology/)
+  	[Delaware Bay Ecology](https://dnrec.delaware.gov/fish-wildlife/conservation/shorebirds/bay-ecology/)
 
 
 	- **RED KNOT**
 	- Weighing about as much as a D-size battery, Red Knots fly up to 15,000 km (9,300 miles) during their yearly migration between Arctic breeding grounds and wintering grounds farther south, which for some Red Knots is the southern tip of South America.
-	- take a D-cell battery for the kids
+	- take a D-cell battery for the kids so that the kids can figure out the weight of a single bird
 
 	Reference:
 	Red Knots
@@ -86,7 +86,7 @@ reference
 
 ### Activity on the beach
 
-- none for now since the school/s I am volunteering to teach, are far from Delaware Bay
+- none for now, since the school/s I am volunteering to teach, are far from Delaware Bay
 
 
 
@@ -98,7 +98,7 @@ reference
 
 Available online here from Sea Grant Delaware: [coloring page](https://www.deseagrant.org/coloring-pages/2020/10/3/red-knot).
 
-Downloaded copy is available [here](./activities/DESG-CD-coloringsheet-redknot2.pdf).
+Downloaded copy is [here](./activities/DESG-CD-coloringsheet-redknot2.pdf).
 
 
 
@@ -128,6 +128,7 @@ List of books to read either after the lesson OR if the kids are younger, make t
 
 - Moonbird: A Year on the Wind with the Great Survivor B95 - [Amazon USA URL](https://a.co/d/bATO9Sl)
 - Crab Moon - [Amazon USA URL](https://a.co/d/j253cT8)
+	- NOTE: the authors of Crab Moon point out their mistake in the book of picking up a Horseshoe crab by the tail. 
 - Horseshoe Crabs and Shorebirds: The Story of a Food Web - [Amazon USA URL](https://a.co/d/fN74yml)
 - High Tide for Horseshoe Crabs - https://a.co/d/iUV8sHA
 
@@ -160,6 +161,7 @@ reference
 ### Red Knots
 
 - Red Knot sculptures are TOO expensive to buy :(
+- Do tell me if you find any models which are relatively inexpensive
 
 
 
@@ -248,8 +250,8 @@ Videos to show to kids during the lesson or after the lesson.
 	Uploaded on: 2019
 	https://www.youtube.com/watch?v=HEI3XaaC5po
 
-### Red Knots and Horseshoe Crabs of Delaware Bay
 
+### Red Knots and Horseshoe Crabs of Delaware Bay
 
 	Red Knots and Horseshoe Crabs of Delaware Bay
 	Eric Holland
@@ -268,7 +270,6 @@ Videos to show to kids during the lesson or after the lesson.
 	Video duration: 00:09:47
 	URL: https://www.youtube.com/watch?v=1Zdt7-S3kbc
 
-
 - video of horseshoe crabs underwater
 
 
@@ -280,8 +281,7 @@ Videos to show to kids during the lesson or after the lesson.
 	Video duration: 00:2:55
 	https://www.youtube.com/watch?v=6r523OZxhEY
 
- 
-- horseshoe crabs and Red Knots
+ - horseshoe crabs and Red Knots
 - shows scientists (Delaware Shorebird Project) doing research
 
 
@@ -332,8 +332,9 @@ Videos to show to kids during the lesson or after the lesson.
 
 # Miscellaneous ides/thoughts/comments/suggestions/etc.
 
-- show kids the tag used on Red Knots
-- show kids the tag attached to Horseshoe Crabs
+- show kids the tag/band used on Red Knots
+- show kids the tag/band attached to Horseshoe Crabs
+- get a license/permit to display a dead Horseshoe Crab
 
 ## my questions (remove this section later)
 
