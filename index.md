@@ -49,9 +49,7 @@
 	- Weighing about as much as a D-size battery, Red Knots fly up to 15,000 km (9,300 miles) during their yearly migration between Arctic breeding grounds and wintering grounds farther south, which for some Red Knots is the southern tip of South America.
 	- take a D-cell battery for the kids so that the kids can figure out the weight of a single bird
 
-	Reference:
-	Red Knots
-	[WHSRN](https://whsrn.org/about-shorebirds/highlighted-species/red-knot/)
+	Reference: [Red Knots WHSRN](https://whsrn.org/about-shorebirds/highlighted-species/red-knot/)
 
 
 ---
@@ -65,7 +63,6 @@
   URL: https://www.deseagrant.org/education  
   URL: https://www.deseagrant.org/education-resources
   
-
 2. **Publication in Nature**
 
 - What's killing the world's shorebirds?
@@ -103,7 +100,7 @@ reference
 
 #### Build models
 
-Build a model of a Horseshoe crab. 
+- Build a model of a Horseshoe crab. 
  
 - Instructions are available [here](https://njseagrant.org/wp-content/uploads/2014/03/build_a_horseshoe_crab.pdf) 
 	- Downloaded copy is [here](./activities/NJ-seaGrant-build_a_horseshoe_crab.pdf)
