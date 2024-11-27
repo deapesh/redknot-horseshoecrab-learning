@@ -85,6 +85,9 @@ reference
 - British Trust for Ornithology (BTO) has published several papers regarding Red Knots in Delaware Bay (and elsewhere too)
 - Their papers for Red Knot research in the Delaware bay are [here](BTO-papers/BTO-papers-index.md)
 
+5. **More Research Papers**
+
+- References to a lot of research papers related our topic are [here](research-papers/citations.md)
 ---
 
 
