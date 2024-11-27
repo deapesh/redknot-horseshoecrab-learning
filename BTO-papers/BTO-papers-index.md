@@ -7,12 +7,16 @@
 	Date of publication: February 2002
 	URL: https://www.bto.org/sites/default/files/shared_documents/publications/research-reports/2003/rr307.pdf
 
+Archived copy is [here](BTO-rr307.pdf)
+
 - BTO Research Report No. 274 
 
 	Title: A Preliminary Analysis of the Survival Rates of Red Knots Calidris canutus rufa Passing Through the State of Delaware 1997-2001  
 	Authors: Philip W. Atkinson, Ian G. Henderson & Nigel A. Clark
 	Date of publication: February 2002
 	URL: https://www.bto.org/sites/default/files/shared_documents/publications/research-reports/2002/rr274.pdf
+
+Archived copy is [here](BTO-rr274.pdf)
 
 - BTO Research Report No. 351  
 
@@ -21,6 +25,8 @@
 	Date of Publication: February 2004
 	URL: https://www.bto.org/sites/default/files/shared_documents/publications/research-reports/2004/rr351.pdf
 
+Archived copy is [here](BTO-rr351.pdf)
+
 - BTO Research Report No. 308
 
 	Red Knots Calidris canutus in Delaware Bay 2002. Survival, foraging and marking strategy
@@ -28,3 +34,4 @@
 	Date of Publication: February 2003
 	URL: https://www.bto.org/sites/default/files/shared_documents/publications/research-reports/2003/rr308.pdf
 
+Archived copy is [here](BTO-rr308.pdf)
