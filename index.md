@@ -56,14 +56,14 @@
 
 # Educational Resources
 
-1. **Sea Grant Delaware**
+**Sea Grant Delaware**
 
 - lots of educational resources available (lesson plans/books/videos/coloring pages etc)
   
   URL: https://www.deseagrant.org/education  
   URL: https://www.deseagrant.org/education-resources
   
-2. **Publication in Nature**
+**Publication in Nature**
 
 - What's killing the world's shorebirds?
 
@@ -75,17 +75,17 @@ reference
 
 - copyrighted. need to buy a license to use
 
-3. **Horseshoecrab.org**
+**Horseshoecrab.org**
 
 - lots of info at [horseshoecrab.org](https://www.horseshoecrab.org/)
 
 
-4. **BTO Research Papers**
+**BTO Research Papers**
 
 - British Trust for Ornithology (BTO) has published several papers regarding Red Knots in Delaware Bay (and elsewhere too)
 - Their papers for Red Knot research in the Delaware bay are [here](BTO-papers/BTO-papers-index.md)
 
-5. **More Research Papers**
+**More Research Papers**
 
 - References to a lot of research papers related our topic are [here](research-papers/citations.md)
 
