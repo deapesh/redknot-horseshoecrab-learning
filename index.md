@@ -78,6 +78,11 @@ reference
 3. **Horseshoecrab.org**
 
 - lots of info at [horseshoecrab.org](https://www.horseshoecrab.org/)
+
+4. **BTO Research Papers**
+
+- British Trust for Ornithology (BTO) has published several papers regarding Red Knots in Delaware Bay (and elsewhere too)
+- Their papers for Red Knot research in the Delaware bay are [here](BTO-papers/BTO-papers-index.md)
 ---
 
 
