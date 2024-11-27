@@ -1,4 +1,4 @@
-# British Trust of Ornithology (BTO) papers regarding Red Knots in Delaware, USA
+# British Trust for Ornithology (BTO) papers regarding Red Knots in Delaware, USA
 
 - BTO Research Report No. 307
 
